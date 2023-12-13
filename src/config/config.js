@@ -1,8 +1,8 @@
-import dotenv from "dotenv";
+// import dotenv from "dotenv";
 
 class Config {
   constructor() {
-    dotenv.config();
+    // dotenv.config();
   }
 
   get cloudinaryConfig() {
